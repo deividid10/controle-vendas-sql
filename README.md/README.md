@@ -1,3 +1,4 @@
+![Capa do Projeto] (documentação/capa-projeto.png)
 # 📊 Sistema de Controle de Vendas — Projeto SQL
 
 Projeto acadêmico de banco de dados para uma loja de materiais de construção. Desenvolvido com foco em modelagem de dados, normalização e execução de scripts SQL para simular operações reais de vendas.
