@@ -1,0 +1,5 @@
+cliente_id,cliente_nome,produto_id,produto_nome,quantidade,data_venda
+1,João Silva,1,Cimento,3,2023-10-01
+2,Maria Souza,2,Areia,5,2023-10-02
+3,Carlos Lima,3,Tijolo,100,2023-10-03
+1,João Silva,3,Tijolo,50,2023-10-04
